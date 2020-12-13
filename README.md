@@ -35,5 +35,6 @@ Ctrl + Space: Play Animation
 
 # MACHIN3tools
 Tab: Switch Mode.
+
 Alt + A: Align
 
