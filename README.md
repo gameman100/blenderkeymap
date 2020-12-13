@@ -18,6 +18,8 @@ C: Clay(default)
 
 Alt + C:Crease
 
+Alt + FL Flatten
+
 Alt + S: Scrape
 
 Alt + G: Grab
