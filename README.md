@@ -1,6 +1,5 @@
 # Blender keymap
 My keymap for the blender industry compatible mode.
-123
 
 ## 3D View
 Alt + Z  X Toggle X-Ray (compatible with Hard Ops).
