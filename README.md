@@ -27,8 +27,13 @@ Alt + G: Grab
 M: Mask
 
 
-## Screen
+# Screen
 Space: Toggle Quad View (screen.region_quadview)
 
-## Frames
+# Frames
 Ctrl + Space: Play Animation
+
+# MACHIN3tools
+Tab: Switch Mode.
+Alt + A: Align
+
