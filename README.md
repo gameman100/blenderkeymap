@@ -3,16 +3,16 @@ Blender keymap
 My keymap for the blender industry compatible mode.
 
 ## 3D View
-Alt + Z  X Toggle X-Ray (compatible with Hard Ops)
+Alt + Z: X Toggle X-Ray (compatible with Hard Ops)
 
-Ctr + Tab  Search  (compatible with Mesh: MACHIN3tools)
+Ctr + Tab: Search  (compatible with Mesh: MACHIN3tools)
 
-Alt + M  Merge Vertices at center
+Alt + M: Merge Vertices at center
 
-Alt + E  Extrude
+Alt + E: Extrude
 
 ## Screen
-Space  screen.region_quadview  Toggle Quad View
+Space: Toggle Quad View (screen.region_quadview)
 
 ## Frames
-Ctrl + Space  Play Animation
+Ctrl + Space: Play Animation
