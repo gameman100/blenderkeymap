@@ -11,4 +11,4 @@ Alt + E  Extrude.
 Space  screen.region_quadview  Toggle Quad View.
 
 ## Frames
-Ctrl + Space  Play Animation.
+Ctrl + Space  Play Animation
