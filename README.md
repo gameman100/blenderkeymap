@@ -16,9 +16,9 @@ D: Draw(default)
 
 C: Clay(default)
 
-Alt + C:Crease
+Alt + C: Crease
 
-Alt + FL Flatten
+Alt + F: Flatten
 
 Alt + S: Scrape
 
