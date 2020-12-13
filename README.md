@@ -12,7 +12,18 @@ Alt + M: Merge Vertices at center
 Alt + E: Extrude
 
 ## Sulpting
-Alt + C Crease
+D: Draw(default)
+
+C: Clay(default)
+
+Alt + C:Crease
+
+Alt + S: Scrape
+
+Alt + G: Grab
+
+M: Mask
+
 
 ## Screen
 Space: Toggle Quad View (screen.region_quadview)
